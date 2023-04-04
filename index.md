@@ -11,10 +11,10 @@ MSc (2017) - AgroParisTech (Paris Institute of Technology for Life, Food and Env
 ### Experience
 
 ### Publications
-[Sick leave due to COVID-19 during the first pandemic wave in France, 2020](https://oem.bmj.com/content/early/2023/03/13/oemed-2022-108451.abstract)
+[Sick leave due to COVID-19 during the first pandemic wave in France, 2020](https://oem.bmj.com/content/early/2023/03/13/oemed-2022-108451.abstract)  
 Smith DRM, Jijón S, Oodally A, Shirreff G, Aït Bouziad K, Ante-Testard PA, **Bastard J**, Bouziri H, Daouda OS, Duchemin T, Godon-Rensonnet AS, Henriot P, Houri Y, Neynaud H, Perozziello A, Thonon F, Crépey P, Dab W, Jean K, Temime L (2023). *Occupational and Environmental Medicine*.
 
-[Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4)
+[Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4)  
 **Bastard J**, Durand GA, Parenton F, Hassani Y, Dommergues L, Paireau J, Hozé N, Ruello M, Grard G, Métras R, Noël H (2022). *Communications Medicine*.
 
 [Modelling the impact of antimicrobial use and external introductions on commensal *E. coli* colistin resistance in small-scale chicken farms of the Mekong delta of Vietnam](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14558)  
