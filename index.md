@@ -4,15 +4,25 @@ This page is still in construction.
 
 
 ### Education
-PhD (2020) - Université Paris-Cité
+**PhD (2020)** - Université Paris-Cité
 
-MSc (2017) - AgroParisTech (Paris Institute of Technology for Life, Food and Environmental Sciences)
+**MSc (2017)** - AgroParisTech (Paris Institute of Technology for Life, Food and Environmental Sciences)
 
 ### Experience
+**Since 2022**: Columbia University, [Diuk-Wasser Eco-epidemiology Lab](https://ecoepidemiologylab.e3b.columbia.edu/), New York, United States
+
+**2020-2022** (1.5 years): Santé Publique France (French national public health agency), Department of Infectious Diseases, France
+
+**2017-2020** (3.5 years): Institut Pasteur, [EMEA lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), France
+
+**2016** (8 months): Food and Agriculture Organization of the United Nations, Animal Health service, Italy
+
+**2015** (6 months): Victoria University of Wellington, School of Biological Sciences, New Zealand
+
 
 ### Publications
 [Sick leave due to COVID-19 during the first pandemic wave in France, 2020](https://oem.bmj.com/content/early/2023/03/13/oemed-2022-108451.abstract)  
-Smith DRM, Jijón S, Oodally A, Shirreff G, Aït Bouziad K, Ante-Testard PA, **Bastard J**, Bouziri H, Daouda OS, Duchemin T, Godon-Rensonnet AS, Henriot P, Houri Y, Neynaud H, Perozziello A, Thonon F, Crépey P, Dab W, Jean K, Temime L (2023). *Occupational and Environmental Medicine*.
+Smith DRM, Jijón S, Oodally A, Shirreff G, Aït Bouziad K, Ante-Testard PA, **Bastard J**, Bouziri H, Daouda OS, Duchemin T, Godon-Rensonnet AS, Henriot P, Houri Y, Neynaud H, Perozziello A, Thonon F, Crépey P, Dab W, Jean K, Temime L (2023). *Occupational & Environmental Medicine*.
 
 [Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4)  
 **Bastard J**, Durand GA, Parenton F, Hassani Y, Dommergues L, Paireau J, Hozé N, Ruello M, Grard G, Métras R, Noël H (2022). *Communications Medicine*.
