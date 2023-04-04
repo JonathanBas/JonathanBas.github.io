@@ -1,23 +1,21 @@
 This page is still in construction.
 
-### Research interests
-
 
 ### Education
-**PhD (2020)** - Université Paris-Cité
+PhD (2020) - Université Paris-Cité
 
-**MSc (2017)** - AgroParisTech (Paris Institute of Technology for Life, Food and Environmental Sciences)
+MSc (2017) - AgroParisTech (Paris Institute of Technology for Life, Food and Environmental Sciences)
 
 ### Experience
-**Since 2022**: Columbia University, [Diuk-Wasser Eco-epidemiology Lab](https://ecoepidemiologylab.e3b.columbia.edu/), New York, United States
+Since 2022: Columbia University, [Diuk-Wasser Eco-epidemiology Lab](https://ecoepidemiologylab.e3b.columbia.edu/), New York, United States
 
-**2020-2022** (1.5 years): Santé Publique France (French national public health agency), Department of Infectious Diseases, France
+2020-2022 (1.5 years): Santé Publique France (French national public health agency), Department of Infectious Diseases, France
 
-**2017-2020** (3.5 years): Institut Pasteur, [EMEA lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), France
+2017-2020 (3.5 years): Institut Pasteur, [EMEA lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), France
 
-**2016** (8 months): Food and Agriculture Organization of the United Nations, Animal Health service, Italy
+2016 (8 months): Food and Agriculture Organization of the United Nations, Animal Health service, Italy
 
-**2015** (6 months): Victoria University of Wellington, School of Biological Sciences, New Zealand
+2015 (6 months): Victoria University of Wellington, School of Biological Sciences, New Zealand
 
 
 ### Publications
@@ -41,6 +39,3 @@ Duchemin T, **Bastard J**, Ante-Testard PA, Assab R, Daouda OS, Duval A, Garsi J
 
 [Dynamics of livestock-associated methicillin resistant *Staphylococcus aureus* in pig movement networks: Insight from mathematical modeling and French data](https://www.sciencedirect.com/science/article/pii/S1755436519301082)  
 **Bastard J**, Andraud M, Chauvin C, Glaser P, Opatowski L, Temime L (2020). *Epidemics*.
-
-
-### Conferences
