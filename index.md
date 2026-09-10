@@ -1,22 +1,21 @@
-This page is still in construction.
-
+### About me
+I am a postdoctoral researcher at ANSES, mainly focused on the epidemiology and modelling of vector-borne diseases.
 
 ### Education
 PhD (2020) - Université Paris-Cité
 
 MSc (2017) - AgroParisTech (Paris Institute of Technology for Life, Food and Environmental Sciences)
 
-### Experience
-Since 2022: Columbia University, [Diuk-Wasser Eco-epidemiology Lab](https://ecoepidemiologylab.e3b.columbia.edu/), New York, United States
+### Positions
+Since 2023: French Agency for Food, Environmental and Occupational Health & Safety (ANSES), Laboratory for Animal Health, EpiMIM team, Maisons-Alfort, France
 
-2020-2022 (1.5 years): Santé Publique France (French national public health agency), Department of Infectious Diseases, France
+2022-2023 (1.5 years): Columbia University, [Diuk-Wasser Eco-epidemiology Lab](https://ecoepidemiologylab.e3b.columbia.edu/), New York, United States
 
-2017-2020 (3.5 years): Institut Pasteur, [EMEA lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), France
+2020-2022 (1.5 years): Santé Publique France (French national public health agency), Department of Infectious Diseases, Saint-Maurice, France
 
-2016 (8 months): Food and Agriculture Organization of the United Nations, Animal Health service, Italy
+2017-2020 (3.5 years): Institut Pasteur, [EMEA lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), Paris, France
 
-2015 (6 months): Victoria University of Wellington, School of Biological Sciences, New Zealand
-
+2016 (8 months): Food and Agriculture Organization of the United Nations, Animal Health service, Rome, Italy
 
 ### Publications
 [Sick leave due to COVID-19 during the first pandemic wave in France, 2020](https://oem.bmj.com/content/early/2023/03/13/oemed-2022-108451.abstract)  
