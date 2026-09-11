@@ -1,8 +1,7 @@
 title: "Jonathan Bastard personal page"
 description: "Epidemiology and modelling of infectious diseases."
-author:
-  name: Jonathan Bastard
-  email: jonathan . bastard AT anses . fr
+author: Jonathan Bastard
+email: jonathan . bastard @ anses . fr
 theme: minima
 header_pages:
   - index.md
