@@ -3,7 +3,9 @@ layout: page
 title: Home
 ---
 
-I am a postdoctoral researcher at ANSES, mainly focused on the epidemiology and modelling of vector-borne diseases.
+I am a postdoctoral researcher on the epidemiology and modelling of infectious diseases, with a focus on vector-borne diseases.
+
+This website is still in construction.
 
 Go to my [CV](https://jonathanbas.github.io/CV.html).
 
