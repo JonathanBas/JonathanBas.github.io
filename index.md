@@ -9,4 +9,4 @@ This website is still in construction.
 
 Go to my [CV](https://jonathanbas.github.io/CV.html).
 
-Go to my [Research themes](https://jonathanbas.github.io/research.html).
+Go to my [Research topics](https://jonathanbas.github.io/research.html).
