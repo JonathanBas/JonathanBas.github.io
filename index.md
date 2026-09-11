@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About me
 ---
 
 I am a postdoctoral researcher working on the epidemiology and modelling of infectious diseases, with a focus on vector-borne and zoonotic diseases.
