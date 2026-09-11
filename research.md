@@ -3,7 +3,18 @@ layout: page
 title: Research themes
 ---
 
-### Zoonotic mosquito-borne diseases
+<!-- Bandeau de sous-navigation interne -->
+<nav style="background-color: #f6f8fa; padding: 10px; border-radius: 6px; margin-bottom: 20px;">
+  <strong>Sommaire :</strong> 
+  <a href="#spatial-and-temporal-modelling-of-zoonotic-mosquito-borne-diseases-using-serological-and-case-data">Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</a> | 
+  <a href="#eco-epidemiology-of-tick-borne-diseases">Eco-epidemiology of tick-borne diseases</a> | 
+  <a href="#surveillance-and-modelling-for-outbreak-response">Surveillance and modelling for outbreak response</a> | 
+  <a href="#modelling-the-spread-of-antibiotic-resistance-in-farm-animals">Modelling the spread of antibiotic resistance in farm animals</a>
+</nav>
+
+---
+
+### Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data
 
 **2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R*, Durand B*. [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
@@ -23,7 +34,7 @@ title: Research themes
 
 **2024**:	Ruiz-Carrascal D, **Bastard J**, Williams S, Diuk-Wasser M. [Modeling platform to assess the effectiveness of single and integrated Ixodes scapularis tick control methods](https://link.springer.com/article/10.1186/s13071-024-06387-2). *Parasites and Vectors*.
 
-### Modelling for outbreak response
+### Surveillance and modelling for outbreak response
 
 **2026**: **Bastard J**, Métras R, Boëlle PY. [Probabilistic assessment of transmission risk in a cruise ship hantavirus outbreak](https://academic.oup.com/jtm/advance-article-abstract/doi/10.1093/jtm/taag070/8742062). *Journal of Travel Medicine*.
 
@@ -35,7 +46,7 @@ title: Research themes
 
 **2021**: Duchemin T, **Bastard J**, Ante-Testard PA, Assab R, Daouda OS, Duval A, Garsi JP, Lounissi R, Nekkab N, Neynaud H, Smith DRM, Dab W, Jean K, Temime L, Hocine MN. [Monitoring sick leave data for early detection of influenza outbreaks](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05754-5). *BMC Infectious Diseases*.
 
-### Antibiotic resistance in farm animals
+### Modelling the spread of antibiotic resistance in farm animals
 During my PhD, I studied the spread of antibiotic-resistant bacteria in farm animals, at multiple scales.
 
 **2022**: **Bastard J**, Nhung NT, Hien VB, Kiet BT, Temime L, Opatowski L, Carrique-Mas J, Choisy M. [Modelling the impact of antimicrobial use and external introductions on commensal *E. coli* colistin resistance in small-scale chicken farms of the Mekong delta of Vietnam](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14558). *Transboundary and Emerging Diseases*.
