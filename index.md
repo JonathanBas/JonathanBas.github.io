@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-I am a postdoctoral researcher on the epidemiology and modelling of infectious diseases, with a focus on vector-borne diseases.
+I am a postdoctoral researcher working on the epidemiology and modelling of infectious diseases, with a focus on vector-borne and zoonotic diseases.
 
 This website is still in construction.
 
