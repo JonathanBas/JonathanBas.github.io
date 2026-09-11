@@ -6,7 +6,8 @@ title: Research themes
 <details>
 <summary><strong>1. Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</strong></summary>
 
-**2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R*, Durand B*. [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
+
+**2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R *, Durand B *. [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
 **2026**:	**Bastard J**, Migné C, …, Durand B *, Métras R *, Gonzalez G *. [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
 
@@ -17,6 +18,7 @@ title: Research themes
 **2025**:	Ramaroson HS, …, **Bastard J**, …, Chevalier V. [A Multi-Host Approach to Quantitatively Assess the Role of Dogs as Sentinels for Rift Valley Fever Virus (RVFV) Surveillance in Madagascar](https://www.mdpi.com/1999-4915/17/11/1461). *Viruses*.
 
 **2022**: **Bastard J**, Durand GA, Parenton F, Hassani Y, Dommergues L, Paireau J, Hozé N, Ruello M, Grard G, Métras R, Noël H. [Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4). *Communications Medicine*.
+
 
 </details>
 
