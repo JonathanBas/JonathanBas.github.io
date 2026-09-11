@@ -5,6 +5,6 @@ title: Home
 
 I am a postdoctoral researcher at ANSES, mainly focused on the epidemiology and modelling of vector-borne diseases.
 
-Go to my [CV](jonathanBas.github.io/CV).
+Go to my [CV](https://jonathanbas.github.io/CV.html).
 
-Go to my [Research themes](jonathanBas.github.io/research).
+Go to my [Research themes](https://jonathanbas.github.io/research.html).
