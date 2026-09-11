@@ -22,3 +22,7 @@ Since 2023: French Agency for Food, Environmental and Occupational Health & Safe
 ### Publications
 My full list of publications is available on [ORCID](https://orcid.org/0000-0001-8531-1614) and [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mZ201xIAAAAJ&view_op=list_works&sortby=pubdate).
 
+### Grants
+2023-2025:	DIM 1Health 2.0 postdoctoral fellowship
+
+2019: Pasteur Network mobility grant
