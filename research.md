@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Research
+title: Research topics
 ---
 
 <details markdown="1">
 <summary><strong>1. Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</strong></summary>
 
-
-### 
+I combine serological data and case reporting data with models accounting for the spatial and temporal heterogeneity of mosquito-borne diseases. I have worked on West Nile virus and Rift Valley Fever virus, at multiple scales, in European and island settings.
 
 **2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R* , Durand B* . [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
@@ -21,21 +20,18 @@ title: Research
 
 **2022**: **Bastard J**, Durand GA, Parenton F, Hassani Y, Dommergues L, Paireau J, Hozé N, Ruello M, Grard G, Métras R, Noël H. [Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4). *Communications Medicine*.
 
-
 </details>
 
 <br>
 
 <details markdown="1">
-<summary><strong>2. Eco-epidemiology of tick-borne diseases</strong></summary>
+<summary><strong>2. Eco-epidemiology of zoonotic tick-borne diseases</strong></summary>
 
-
-### 
+Zoonotic tick-borne diseases, such as Lyme disease, are characterized by the high complexity of their eco-epidemiological cycle, involving multiple hosts with various levels of competence and multiple tick life stages. I address this issue using quantitative modelling frameworks applied to data collected in North America.
 
 **2024**:	**Bastard J*** , Gregory N* , Fernandez P, …, Diuk‐Wasser M. [Cascading effects of mammal host community composition on tick vector occurrence at the urban human–wildlife interface](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4957). *Ecosphere*.
 
 **2024**:	Ruiz-Carrascal D, **Bastard J**, Williams S, Diuk-Wasser M. [Modeling platform to assess the effectiveness of single and integrated Ixodes scapularis tick control methods](https://link.springer.com/article/10.1186/s13071-024-06387-2). *Parasites and Vectors*.
-
 
 </details>
 
@@ -44,8 +40,7 @@ title: Research
 <details markdown="1">
 <summary><strong>3. Surveillance and modelling for outbreak response</strong></summary>
 
-
-### 
+Infectious disease outbreaks with pandemic potential require adequate monitoring measures and timely quantitative analyses to inform public health policies. I have worked on SARS-CoV-2 and influenza in France, and on a cruise ship Andes virus outbreak.
 
 **2026**: **Bastard J**, Métras R, Boëlle PY. [Probabilistic assessment of transmission risk in a cruise ship hantavirus outbreak](https://academic.oup.com/jtm/advance-article-abstract/doi/10.1093/jtm/taag070/8742062). *Journal of Travel Medicine*.
 
@@ -57,7 +52,6 @@ title: Research
 
 **2021**: Duchemin T, **Bastard J**, Ante-Testard PA, Assab R, Daouda OS, Duval A, Garsi JP, Lounissi R, Nekkab N, Neynaud H, Smith DRM, Dab W, Jean K, Temime L, Hocine MN. [Monitoring sick leave data for early detection of influenza outbreaks](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-05754-5). *BMC Infectious Diseases*.
 
-
 </details>
 
 <br>
@@ -65,8 +59,7 @@ title: Research
 <details markdown="1">
 <summary><strong>4. Modelling the spread of antibiotic resistance in farm animals</strong></summary>
 
-
-### 
+Antibiotic resistance in bacteria is a major public health threat, and transmission of resistant strains is possible between human and animal (including livestock) populations. During my PhD, I modelled the spread of antibiotic resistant bacteria in farm animals at multiple scales in France and in Vietnam, focusing particularly on methicillin resistant *Staphylococcus aureus*, on ESBL-producing *Escherichia coli* and on colistin resistance in *E. coli*.
 
 **2022**: **Bastard J**, Nhung NT, Hien VB, Kiet BT, Temime L, Opatowski L, Carrique-Mas J, Choisy M. [Modelling the impact of antimicrobial use and external introductions on commensal *E. coli* colistin resistance in small-scale chicken farms of the Mekong delta of Vietnam](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14558). *Transboundary and Emerging Diseases*.
 
