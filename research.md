@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>1. Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</strong></summary>
 
 
@@ -25,7 +25,7 @@ title: Research
 
 <br>
 
-<details>
+<details markdown="1">
 <summary><strong>2. Eco-epidemiology of tick-borne diseases</strong></summary>
 
 
@@ -39,7 +39,7 @@ title: Research
 
 <br>
 
-<details>
+<details markdown="1">
 <summary><strong>3. Surveillance and modelling for outbreak response</strong></summary>
 
 
@@ -59,7 +59,7 @@ title: Research
 
 <br>
 
-<details>
+<details markdown="1">
 <summary><strong>4. Modelling the spread of antibiotic resistance in farm animals</strong></summary>
 
 
