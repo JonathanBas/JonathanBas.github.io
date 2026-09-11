@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-<img src="assets/ID_picture.jpg" alt="Photo" width="180" style="border-radius: 50%; float: right; margin: 0 0 20px 20px;">
+<img src="assets/ID_picture.png" alt="Photo" width="180" style="border-radius: 50%; float: right; margin: 0 0 20px 20px;">
 
 I am a postdoctoral researcher working on the epidemiology and modelling of infectious diseases, with a focus on vector-borne and zoonotic diseases. I am currently based at the Laboratory for Animal Health at ANSES (the French Agency for Food, Environmental and Occupational Health & Safety), in Paris area, France.
 
