@@ -3,34 +3,29 @@ layout: page
 title: Research themes
 ---
 
-<!-- Bandeau de sous-navigation interne -->
-<nav style="background-color: #f6f8fa; padding: 10px; border-radius: 6px; margin-bottom: 20px;">
-  <strong>Sommaire :</strong> 
-  <a href="#spatial-and-temporal-modelling-of-zoonotic-mosquito-borne-diseases-using-serological-and-case-data">Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</a> | 
-  <a href="#eco-epidemiology-of-tick-borne-diseases">Eco-epidemiology of tick-borne diseases</a> | 
-  <a href="#surveillance-and-modelling-for-outbreak-response">Surveillance and modelling for outbreak response</a> | 
-  <a href="#modelling-the-spread-of-antibiotic-resistance-in-farm-animals">Modelling the spread of antibiotic resistance in farm animals</a>
-</nav>
-
----
-
-### Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data
+<details>
+<summary><strong>1. Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</strong></summary>
 
 **2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R*, Durand B*. [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
-**2026**:	**Bastard J**, Migné C, …, Durand B*, Métras R*, Gonzalez G*. [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
+**2026**:	**Bastard J**, Migné C, …, Durand B *, Métras R *, Gonzalez G *. [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
 
 **2026**:	**Bastard J**, Métras R, Durand B. [Mapping the bird risk index for West Nile virus in Europe and its relationship with disease occurrence in humans](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/mapping-the-bird-risk-index-for-west-nile-virus-in-europe-and-its-relationship-with-disease-occurrence-in-humans/7CE3D10D7112D5F1C3FC79C4743C25EE). *Epidemiology and Infection*.
 
-**2025**:	Hamouche C, Pradel P, Pagès N, Chevalier V, Lecollinet S, **Bastard J***, Benoit Durand*. [Reconstructing the silent circulation of West Nile Virus in a Caribbean island during 15 years using sentinel serological data](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012895). *PLOS Neglected Tropical Diseases*.
+**2025**:	Hamouche C, Pradel P, Pagès N, Chevalier V, Lecollinet S, **Bastard J** *, Benoit Durand *. [Reconstructing the silent circulation of West Nile Virus in a Caribbean island during 15 years using sentinel serological data](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012895). *PLOS Neglected Tropical Diseases*.
 
 **2025**:	Ramaroson HS, …, **Bastard J**, …, Chevalier V. [A Multi-Host Approach to Quantitatively Assess the Role of Dogs as Sentinels for Rift Valley Fever Virus (RVFV) Surveillance in Madagascar](https://www.mdpi.com/1999-4915/17/11/1461). *Viruses*.
 
 **2022**: **Bastard J**, Durand GA, Parenton F, Hassani Y, Dommergues L, Paireau J, Hozé N, Ruello M, Grard G, Métras R, Noël H. [Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4). *Communications Medicine*.
 
+</details>
+
+<br>
+
+
 ### Eco-epidemiology of tick-borne diseases
 
-**2024**:	**Bastard J***, Gregory N*, Fernandez P, …, Diuk‐Wasser M. [Cascading effects of mammal host community composition on tick vector occurrence at the urban human–wildlife interface](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4957). *Ecosphere*.
+**2024**:	**Bastard J** *, Gregory N *, Fernandez P, …, Diuk‐Wasser M. [Cascading effects of mammal host community composition on tick vector occurrence at the urban human–wildlife interface](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4957). *Ecosphere*.
 
 **2024**:	Ruiz-Carrascal D, **Bastard J**, Williams S, Diuk-Wasser M. [Modeling platform to assess the effectiveness of single and integrated Ixodes scapularis tick control methods](https://link.springer.com/article/10.1186/s13071-024-06387-2). *Parasites and Vectors*.
 
