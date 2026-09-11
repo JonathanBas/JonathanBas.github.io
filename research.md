@@ -7,7 +7,7 @@ title: Research
 <summary><strong>1. Spatial and temporal modelling of zoonotic mosquito-borne diseases using serological and case data</strong></summary>
 
 
-### 
+###.
 **2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R* , Durand B* . [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
 **2026**:	**Bastard J**, Migné C, …, Durand B* , Métras R* , Gonzalez G* . [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
@@ -29,7 +29,7 @@ title: Research
 <summary><strong>2. Eco-epidemiology of tick-borne diseases</strong></summary>
 
 
-### 
+###.
 **2024**:	**Bastard J*** , Gregory N* , Fernandez P, …, Diuk‐Wasser M. [Cascading effects of mammal host community composition on tick vector occurrence at the urban human–wildlife interface](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4957). *Ecosphere*.
 
 **2024**:	Ruiz-Carrascal D, **Bastard J**, Williams S, Diuk-Wasser M. [Modeling platform to assess the effectiveness of single and integrated Ixodes scapularis tick control methods](https://link.springer.com/article/10.1186/s13071-024-06387-2). *Parasites and Vectors*.
@@ -43,7 +43,7 @@ title: Research
 <summary><strong>3. Surveillance and modelling for outbreak response</strong></summary>
 
 
-### 
+###.
 **2026**: **Bastard J**, Métras R, Boëlle PY. [Probabilistic assessment of transmission risk in a cruise ship hantavirus outbreak](https://academic.oup.com/jtm/advance-article-abstract/doi/10.1093/jtm/taag070/8742062). *Journal of Travel Medicine*.
 
 **2024**: Abad L, …, **Bastard J**, …, Hulin M. [Keeping schools open during the emergence of the COVID-19 alpha variant: Impact on the circulation of SARS-CoV-2 among children during the 2020–2021 school year](https://www.sciencedirect.com/science/article/pii/S0929693X24001441). *Archives de Pédiatrie*.
@@ -63,7 +63,7 @@ title: Research
 <summary><strong>4. Modelling the spread of antibiotic resistance in farm animals</strong></summary>
 
 
-### 
+###.
 **2022**: **Bastard J**, Nhung NT, Hien VB, Kiet BT, Temime L, Opatowski L, Carrique-Mas J, Choisy M. [Modelling the impact of antimicrobial use and external introductions on commensal *E. coli* colistin resistance in small-scale chicken farms of the Mekong delta of Vietnam](https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.14558). *Transboundary and Emerging Diseases*.
 
 **2021**: **Bastard J**, Haenni M, Gay E, Glaser P, Madec JY, Temime L, Opatowski L. [Drivers of ESBL-producing *Escherichia coli* dynamics in calf fattening farms: A modelling study](https://www.sciencedirect.com/science/article/pii/S2352771421000288). *One Health*.
