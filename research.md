@@ -10,13 +10,13 @@ I combine serological data and case reporting data with models accounting for th
 
 **2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R* , Durand B* . [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
-**2026**:	**Bastard J**, Migné C, …, Durand B* , Métras R* , Gonzalez G* . [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
+**2026**:	**Bastard J**, Migné C, Helle T, Agneray E, Bigeard C, Boudjadi Y, Chevrier M, Dumarest M, Gondard M, Martin-Latil S, Mathews-Martin L, Petit T, Charpentier T, Pouillevet H, Durand B* , Métras R* , Gonzalez G* . [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
 
 **2026**:	**Bastard J**, Métras R, Durand B. [Mapping the bird risk index for West Nile virus in Europe and its relationship with disease occurrence in humans](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/mapping-the-bird-risk-index-for-west-nile-virus-in-europe-and-its-relationship-with-disease-occurrence-in-humans/7CE3D10D7112D5F1C3FC79C4743C25EE). *Epidemiology and Infection*.
 
 **2025**:	Hamouche C, Pradel P, Pagès N, Chevalier V, Lecollinet S, **Bastard J*** , Benoit Durand* . [Reconstructing the silent circulation of West Nile Virus in a Caribbean island during 15 years using sentinel serological data](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012895). *PLOS Neglected Tropical Diseases*.
 
-**2025**:	Ramaroson HS, …, **Bastard J**, …, Chevalier V. [A Multi-Host Approach to Quantitatively Assess the Role of Dogs as Sentinels for Rift Valley Fever Virus (RVFV) Surveillance in Madagascar](https://www.mdpi.com/1999-4915/17/11/1461). *Viruses*.
+**2025**:	Ramaroson HS, Garchitorena A, Lacoste V, Andriamandimby SF, Schoenhals M, **Bastard J**, Albrechtova K, Chevalier L, Rakotomanana D, de Valois Rasamoel P, Raliniaina M, Andriamahefa HF, Andriamananjara MA, Rasoloharimanana LT, Razafimahatratra SL, Ratsimbasoa CA, Durand B, Chevalier V. [A Multi-Host Approach to Quantitatively Assess the Role of Dogs as Sentinels for Rift Valley Fever Virus (RVFV) Surveillance in Madagascar](https://www.mdpi.com/1999-4915/17/11/1461). *Viruses*.
 
 **2022**: **Bastard J**, Durand GA, Parenton F, Hassani Y, Dommergues L, Paireau J, Hozé N, Ruello M, Grard G, Métras R, Noël H. [Reconstructing Mayotte 2018–19 Rift Valley Fever outbreak in humans by combining serological and surveillance data](https://www.nature.com/articles/s43856-022-00230-4). *Communications Medicine*.
 
@@ -29,7 +29,7 @@ I combine serological data and case reporting data with models accounting for th
 
 Zoonotic tick-borne diseases, such as Lyme disease, are characterized by the high complexity of their eco-epidemiological cycle, involving multiple hosts with various levels of competence and multiple tick life stages. I address this issue using quantitative modelling frameworks applied to data collected in North America.
 
-**2024**:	**Bastard J*** , Gregory N* , Fernandez P, …, Diuk‐Wasser M. [Cascading effects of mammal host community composition on tick vector occurrence at the urban human–wildlife interface](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4957). *Ecosphere*.
+**2024**:	**Bastard J*** , Gregory N* , Fernandez P, Mincone M, Card O, VanAcker M, Kross S, Diuk‐Wasser M. [Cascading effects of mammal host community composition on tick vector occurrence at the urban human–wildlife interface](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4957). *Ecosphere*.
 
 **2024**:	Ruiz-Carrascal D, **Bastard J**, Williams S, Diuk-Wasser M. [Modeling platform to assess the effectiveness of single and integrated Ixodes scapularis tick control methods](https://link.springer.com/article/10.1186/s13071-024-06387-2). *Parasites and Vectors*.
 
@@ -44,7 +44,7 @@ Infectious disease outbreaks with pandemic potential require adequate monitoring
 
 **2026**: **Bastard J**, Métras R, Boëlle PY. [Probabilistic assessment of transmission risk in a cruise ship hantavirus outbreak](https://academic.oup.com/jtm/advance-article-abstract/doi/10.1093/jtm/taag070/8742062). *Journal of Travel Medicine*.
 
-**2024**: Abad L, …, **Bastard J**, …, Hulin M. [Keeping schools open during the emergence of the COVID-19 alpha variant: Impact on the circulation of SARS-CoV-2 among children during the 2020–2021 school year](https://www.sciencedirect.com/science/article/pii/S0929693X24001441). *Archives de Pédiatrie*.
+**2024**: Abad L, Antona D, Roudier C, Auvigne V, **Bastard J**, Blondel C, Durand J, Fayad M, Forgeot C, Figoni J, Mailles A, Moisan F, Spaccaferri G, Che D, Levy-Bruhl D, Hulin M. [Keeping schools open during the emergence of the COVID-19 alpha variant: Impact on the circulation of SARS-CoV-2 among children during the 2020–2021 school year](https://www.sciencedirect.com/science/article/pii/S0929693X24001441). *Archives de Pédiatrie*.
 
 **2023**: Smith DRM, Jijón S, Oodally A, Shirreff G, Aït Bouziad K, Ante-Testard PA, **Bastard J**, Bouziri H, Daouda OS, Duchemin T, Godon-Rensonnet AS, Henriot P, Houri Y, Neynaud H, Perozziello A, Thonon F, Crépey P, Dab W, Jean K, Temime L. [Sick leave due to COVID-19 during the first pandemic wave in France, 2020](https://oem.bmj.com/content/early/2023/03/13/oemed-2022-108451.abstract). *Occupational & Environmental Medicine*.
 
