@@ -10,6 +10,8 @@ I combine serological data and case reporting data with models accounting for th
 
 **2026** (preprint):	**Bastard J**, Assaad C, Marti R, Tran A, Métras R* , Durand B* . [Short- and long-term causes of West Nile virus risk in Europe: a spatiotemporal model accounting for under-reporting](https://www.medrxiv.org/content/10.64898/2026.08.20.26360902.abstract). *medRxiv*.
 
+\* These authors contributed equally.
+
 **2026**:	**Bastard J**, Migné C, Helle T, Agneray E, Bigeard C, Boudjadi Y, Chevrier M, Dumarest M, Gondard M, Martin-Latil S, Mathews-Martin L, Petit T, Charpentier T, Pouillevet H, Durand B* , Métras R* , Gonzalez G* . [Modelling serological cross-reactivity to disentangle the dynamics of West Nile and Usutu viruses in an emerging area](https://www.sciencedirect.com/science/article/pii/S1755436526000393). *Epidemics*.
 
 **2026**:	**Bastard J**, Métras R, Durand B. [Mapping the bird risk index for West Nile virus in Europe and its relationship with disease occurrence in humans](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/mapping-the-bird-risk-index-for-west-nile-virus-in-europe-and-its-relationship-with-disease-occurrence-in-humans/7CE3D10D7112D5F1C3FC79C4743C25EE). *Epidemiology and Infection*.
