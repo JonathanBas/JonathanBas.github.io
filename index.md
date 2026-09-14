@@ -12,5 +12,3 @@ I am a postdoctoral researcher working on the epidemiology and modelling of infe
 * Go to my [Research topics](https://jonathanbas.github.io/research.html).
 
 Email: jonathan . bastard @ anses . fr.
-
-This website is still in construction.
