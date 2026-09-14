@@ -15,7 +15,7 @@ Since 2023: French Agency for Food, Environmental and Occupational Health & Safe
 
 2020-2022 (1.5 years): Santé Publique France (French national public health agency), [Division of Infectious Diseases](https://www.santepubliquefrance.fr/en/division-infectious-diseases), Saint-Maurice, France
 
-2017-2020 (3.5 years): Institut Pasteur, [EMEA lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), Paris, France
+2017-2020 (3.5 years): Institut Pasteur, [EMAE lab](https://research.pasteur.fr/en/team/epidemiology-and-modelling-of-bacterial-escape-to-antimicrobials/) & CNAM (Conservatoire National des Arts et Métiers), [MESuRS lab](https://mesurs.cnam.fr/), Paris, France
 
 2016 (8 months): Food and Agriculture Organization of the United Nations, Animal Health service, Rome, Italy
 
